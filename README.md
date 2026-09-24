@@ -18,4 +18,5 @@
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gopiprakan/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/gopiprakan/leetcode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->

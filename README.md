@@ -9,8 +9,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gopiprakan/leetcode/tree/master/0001-two-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gopiprakan/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gopiprakan/leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gopiprakan/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->

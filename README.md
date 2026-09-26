@@ -12,12 +12,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gopiprakan/leetcode/tree/master/0001-two-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopiprakan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gopiprakan/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gopiprakan/leetcode/tree/master/0001-two-sum) |
 | [1096-brace-expansion-ii](https://github.com/gopiprakan/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopiprakan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/gopiprakan/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopiprakan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
 | ------- |

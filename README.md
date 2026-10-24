@@ -48,6 +48,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/gopiprakan/leetcode/tree/master/0002-add-two-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/gopiprakan/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/gopiprakan/leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gopiprakan/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gopiprakan/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/gopiprakan/leetcode/tree/master/3870-count-commas-in-range) |
@@ -74,6 +75,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gopiprakan/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gopiprakan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gopiprakan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/gopiprakan/leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/gopiprakan/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |

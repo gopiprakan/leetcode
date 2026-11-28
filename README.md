@@ -45,6 +45,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gopiprakan/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/gopiprakan/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/gopiprakan/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gopiprakan/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/gopiprakan/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gopiprakan/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gopiprakan/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gopiprakan/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gopiprakan/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gopiprakan/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/gopiprakan/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gopiprakan/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gopiprakan/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gopiprakan/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gopiprakan/leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gopiprakan/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
